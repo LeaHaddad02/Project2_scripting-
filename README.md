@@ -24,3 +24,13 @@ ii.	404 for error
 - 	Use it in python with the findall method 
 3.	Use a list comprehension to extract the value of the href attribute from a list of<a> tags
 4.	Remove duplicate 
+### Challenges
+1.	The first big problem is the lack of knowledge in the web development world. 
+-	As a first-year bioinformatics student who is not so aware of the web world, this project is far away from my actual knowledge, but it’s okay; after a little explanation in class and many research, I was able to give somehow a final output regarding how to extract subdomains and directories.
+2.	Using advanced python language 
+-	As a CP1 student learning python is still under process, using important libraries such as the request one was a bit challenging, but with again, research and new discoveries this difficulty was overcome. 
+3.	The regular expression
+-	Too much detail in one regular expression; writing it took too much time to match everything; here personally I searched multiple sites to combine everything.  
+4.	The GitHub part
+-	GitHub is very new to me; I never used it before this course. The entire concept of implementing code on GitHub is still strange, to handle this task, I preferred writing the code and making all the changes in the .py file directly. In the end, I uploaded the final version of the file directly to the repository. The report was written as a read.me file.  
+
